@@ -40,7 +40,7 @@ Use Nyaa with me!
 
 - You will most likely encounter three keywords: `AV1`, `HEVC`, and `AVC`. 
 - `AVC` files are mostly high-bitrate releases directly ripped from **Crunchyroll**, **Netflix** etc., without modification, exactly as provided by the streaming site.
-- `HEVC`, and`AV1` are mini-encodes. They are smaller versions of those files, usually good for storage and low internet speeds. Video quality in a good mini-encode is often identical to the original large file.
+- `HEVC`, and `AV1` are mini-encodes. They are smaller versions of those files, usually good for storage and low internet speeds. Video quality in a good mini-encode is often identical to the original large file.
 - You should usually priorities `HEVC` over `AV1` because it is easier to play on most mobile phones and weaker hardware, though `AV1` tends to have a smaller size.
 - So, we'll choose the second one here.
 

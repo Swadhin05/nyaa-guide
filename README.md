@@ -7,15 +7,11 @@ Use Nyaa with me!
 
 <img src="https://github.com/Swadhin05/nyaa-guide/blob/main/img/1.jpg?raw=true" width="300">
 
----
-
 # Step 2
 
 - Type the anime name with perfect spelling (for example *Attack on Titan*) and hit search.
 
 <img src="https://github.com/Swadhin05/nyaa-guide/blob/main/img/2.jpg?raw=true" width="300">
-
----
 
 # Lesson 1
 
@@ -26,15 +22,11 @@ Use Nyaa with me!
 
 <img src="https://github.com/Swadhin05/nyaa-guide/blob/main/img/3.jpg?raw=true" width="300">
 
----
-
 # Step 3
 
 - Click the arrow icon on the of seeder column once.
 
 <img src="https://github.com/Swadhin05/nyaa-guide/blob/main/img/4.jpg?raw=true" width="300">
-
----
 
 # Lesson 2
 
@@ -46,8 +38,6 @@ Use Nyaa with me!
 
 <img src="https://github.com/Swadhin05/nyaa-guide/blob/main/img/5.jpg?raw=true" width="300">
 
----
-
 # Step 4 
 
 - Click **Download Torrent** and open the torrent file in your torrent client.
@@ -55,7 +45,5 @@ Use Nyaa with me!
 
 
 <img src="https://github.com/Swadhin05/nyaa-guide/blob/main/img/6.jpg?raw=true" width="300">
-
----
 
 Happy sailing!
